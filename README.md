@@ -1,4 +1,4 @@
-<img width="1100" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*GNFNf_V7rj_C2YUCeZNzsw.jpeg">
+
 <h1 align="center">Hi 👋, I'm K Syam Prasad</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
