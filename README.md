@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm K Syam Prasad</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
+https://media.licdn.com/dms/image/v2/D5616AQEHaqlCmd2JrA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1712491422161?e=1736985600&v=beta&t=UeRxc_6bY8sE9wGFk2io7wScp8mmqKlVHuOgxXR1aGI
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syampk1078&label=Profile%20views&color=0e75b6&style=flat" alt="syampk1078" /> </p>
 
 - 🌱 I’m currently learning **Spring, Spring Boot**
